@@ -1,4 +1,4 @@
-# Groupe_Kirby
+# Groupe_11 Kirby
 
 Oliwia CHÊNE
 Romain DANIZEL
