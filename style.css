@@ -7,6 +7,16 @@ header {
 
 h1 {
   text-align: center;
-  margin-top: 135px; }
-
-/*# sourceMappingURL=style.css.map */
+  
+  margin-top: 135px;
+}
+.play {
+  display: flex;
+  justify-content: center;
+}
+.play h2 {
+  border: solid;
+  padding: 30px;
+  border-radius: 80%;
+  margin-top: 250px;
+}
