@@ -1,11 +1,12 @@
 body {
-  background-image: url("img/background-homepage.png");
-}
+  background-image: url("img/background-homepage.png"); }
+
 header {
   display: flex;
-  justify-content: space-between;
-}
+  justify-content: space-between; }
+
 h1 {
   text-align: center;
-  margin-top: 135px;
-}
+  margin-top: 135px; }
+
+/*# sourceMappingURL=style.css.map */
